@@ -5,7 +5,7 @@
 #node_modules
 
 # Ignora archivo conexion
-conexion.txt
+conexion2.txt
 
 # Ignora los archivos relacionados a API keys
 #.env
